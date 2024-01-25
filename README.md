@@ -4,7 +4,7 @@
 
 ![Screenshot_2024_01_25-1](https://github.com/elnaz-eshtiaghi/accordion-tabs/assets/146030206/c492bc35-29ad-4922-95d1-09df46a03ac7)
 
-- [Demo Project]( https://elnaz-eshtiaghi.github.io/personal-web/)
+- [Demo Project]( https://elnaz-eshtiaghi.github.io/accordion-tabs/)
 
 - Developed by elnaz eshtiaghi
 
