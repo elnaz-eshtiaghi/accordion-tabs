@@ -2,7 +2,8 @@
 
 **If you have a lot of information to display on your site, why don't you use my project**
 
-![Screenshot_2023_11_04-1](https://github.com/elnaz-eshtiaghi/personal-web/assets/146030206/8009e341-b3b4-4f4c-a080-358d6160d603)
+![Screenshot_2024_01_25-1](https://github.com/elnaz-eshtiaghi/accordion-tabs/assets/146030206/c492bc35-29ad-4922-95d1-09df46a03ac7)
+
 - [Demo Project]( https://elnaz-eshtiaghi.github.io/personal-web/)
 
 - Developed by elnaz eshtiaghi
